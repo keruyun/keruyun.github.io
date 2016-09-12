@@ -8,7 +8,7 @@ subtitle: 热爱生活|团队制胜|快学快用|超越极致
 description:
 author: 客如云技术团队
 language: zh-CN
-timezone: UTC+8
+timezone:
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
@@ -69,5 +69,5 @@ theme: yilia
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repo: https://github.com/KeruyunTech/KeruyunTech.github.io.git
+  repo: https://KeruyunTech@github.com/KeruyunTech/KeruyunTech.github.io.git
   branch: master

@@ -53,6 +53,11 @@ sidebar:
             icon: search
             # `open-algolia-search` classes are used to open algolia search modal
             class: open-algolia-search
+        site:
+            title: global.siteName
+            url: http://www.keruyun.com
+            class: link
+            icon: link
         about:
             title: global.about
             url: /#about

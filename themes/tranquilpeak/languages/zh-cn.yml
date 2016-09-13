@@ -3,6 +3,7 @@ date_format: "MMM DD, YYYY"
 
 global:
     home: "首页"
+    siteName: "官网"
     categories: "分类"
     category: "分类"
     tags: "标签"

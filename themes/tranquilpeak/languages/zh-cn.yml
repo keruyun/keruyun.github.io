@@ -49,6 +49,7 @@ pagination:
     next: "下一篇"
 
 post:
+    excerpt: true
     no_title : "无标题"
     categorized_in: "发布在"
     tagged_in: "标签"

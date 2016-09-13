@@ -1,0 +1,12 @@
+_site
+node_modules
+.DS_Store
+Thumbs.db
+db.json
+*.log
+node_modules/
+public/
+.deploy*/
+.idea
+*.git/
+x.git/

@@ -117,7 +117,7 @@ header:
 # Author
 # Your biography and your job is editable in each languages files in `languages` folder
 author:
-    email:
+    email: wangtt@shishike.com
     location:
     # Your profile picture located in folder `source/_images/` (development)
     # or in `source/assets/images/` (production)
@@ -132,8 +132,7 @@ author:
     # Your businnes google plus profile id. If not provided, personal will be used instead.
     # E.g : `+Tranquilpeak` or `123812884128439`
     google_plus_business:
-    bio: author
-    job: author job
+
 
 
 # Customization

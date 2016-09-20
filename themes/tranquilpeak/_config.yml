@@ -47,12 +47,12 @@ sidebar:
             title: global.archives
             url: /all-archives
             icon: archive
-        search:
-            title: global.search
-            url: /#search
-            icon: search
+#        search:
+#            title: global.search
+#            url: /#search
+#            icon: search
             # `open-algolia-search` classes are used to open algolia search modal
-            class: open-algolia-search
+#            class: open-algolia-search
         site:
             title: global.siteName
             url: http://www.keruyun.com
@@ -123,7 +123,7 @@ author:
     # or in `source/assets/images/` (production)
     # or you can use an external url
     # Overwritten by your gravatar image if `gravatar_email` is filled
-    picture: http://imgw.keruyun.net/images/logo-b815125c6f.jpg
+    picture: logo.png
     # Your Twitter username without the @. E.g : `tranquilpeak`
     twitter:
     # Your personal google plus profile id, not your blog or business page id.

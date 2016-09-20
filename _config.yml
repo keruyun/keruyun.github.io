@@ -73,5 +73,5 @@ feed:
 ## Docs: httphexos://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repo: https://KeruyunTech@github.com/KeruyunTech/KeruyunTech.github.io.git
+  repo: https://tietang@github.com/keruyun/keruyun.github.io.git
   branch: master

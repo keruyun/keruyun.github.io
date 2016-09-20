@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/LouisBarranqueiro/hexo-theme-tranquilpeak.git"
+    "url": "https://github.com/LouisBarranqueiro/hexo-theme-tranquilpeak.git"
   },
   "keywords": [
     "hexo",
@@ -59,8 +59,5 @@
     "moment": "^2.13.0",
     "prompt": "^1.0.0",
     "strip-indent": "^1.0.1"
-  },
-  "directories": {
-    "doc": "docs"
   }
 }

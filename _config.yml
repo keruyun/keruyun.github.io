@@ -8,11 +8,12 @@ subtitle: 热爱生活|团队制胜|快学快用|超越极致
 description:
 author: 客如云技术团队
 language: zh-cn
+#language: zh-Hans
 timezone:
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: http://yoursite.com
+url: /
 root: /
 permalink: :year/:month/:day/:title/
 permalink_defaults:
@@ -63,6 +64,7 @@ pagination_dir: page
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
+#theme: next
 theme: tranquilpeak
 
 feed:
